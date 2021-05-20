@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModel", "..\Data\DataModel.csproj", "{9570F81A-E92F-4812-9019-DF0D5FC22B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatRTrening", "..\MediatRTrening\MediatRTrening.csproj", "{CF5965F3-FD50-45E2-A52A-F391CCE834CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9570F81A-E92F-4812-9019-DF0D5FC22B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9570F81A-E92F-4812-9019-DF0D5FC22B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9570F81A-E92F-4812-9019-DF0D5FC22B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9570F81A-E92F-4812-9019-DF0D5FC22B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF5965F3-FD50-45E2-A52A-F391CCE834CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5965F3-FD50-45E2-A52A-F391CCE834CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5965F3-FD50-45E2-A52A-F391CCE834CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5965F3-FD50-45E2-A52A-F391CCE834CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7552BDC2-C58C-484F-BDDD-DA6A5EAE07E9}
+	EndGlobalSection
+EndGlobal
